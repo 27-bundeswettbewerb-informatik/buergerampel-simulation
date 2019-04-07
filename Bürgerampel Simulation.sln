@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bürgerampel Simulation", "Bürgerampel Simulation\Bürgerampel Simulation.csproj", "{F58EE95F-7012-43FF-A950-AA06D3EA1581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F58EE95F-7012-43FF-A950-AA06D3EA1581}.Debug|x86.ActiveCfg = Debug|x86
+		{F58EE95F-7012-43FF-A950-AA06D3EA1581}.Debug|x86.Build.0 = Debug|x86
+		{F58EE95F-7012-43FF-A950-AA06D3EA1581}.Release|x86.ActiveCfg = Release|x86
+		{F58EE95F-7012-43FF-A950-AA06D3EA1581}.Release|x86.Build.0 = Release|x86
+		{50D6ABAE-A078-4789-8EEF-B88596B8EEF0}.Debug|x86.ActiveCfg = Debug|x86
+		{50D6ABAE-A078-4789-8EEF-B88596B8EEF0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
